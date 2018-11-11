@@ -42,7 +42,7 @@ def rob_reply(msg):
         'I\'m not sure what that is',
         'I\'m not allowed to',
         'I got fired last time',
-        'the last time I did, it didn\'t end well'
+        'the last time I did, it didn\'t end well',
         'I can\'t',
         'Rob isn\'t here at the moment, please leave a message.',
         'I don\'t want to, I don\'t like you, and you deserve every struggle you face',
